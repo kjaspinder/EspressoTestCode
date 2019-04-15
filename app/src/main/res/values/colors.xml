@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="top_text_white">#f5ffffff</color>
+    <color name="theme_accent">@color/blue</color>
+    <color name="blue">#138be8</color>
+    <color name="theme_primary_text_accent">@color/theme_accent</color>
+    <color name="theme_primary_text">#de000000</color>
+    <color name="gray_medium">#666666</color>
+</resources>

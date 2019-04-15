@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="alarmMenu">
+        <item>@string/alarm_low_glucose</item>
+        <item>@string/alarm_high_glucose</item>
+        <item>@string/alarm_signal_loss</item>
+    </array>
+
+
+
+</resources>

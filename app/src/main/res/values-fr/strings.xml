@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EspressoTest</string>
+    <string name="home_page_text">Vérifiez si le texte correspond au nombre de lignes spécifié. Il devrait tenir 3 lignes sur toutes les sections locales.</string>
+    <string name="fill_all_fields">Sil vous plaît remplir tous les champs.</string>
+    <string name="invalid_email">S\'il vous plaît donner une adresse email valide.</string>
+    <string name="password_mismatch">Les mots de passe ne correspondent pas.</string>
+    <string name="alarm_config_instruction_unavailable">Les alarmes ne sont disponibles que lorsque vous démarrez un capteur FreeStyle Libre 2 avec cet appareil.</string>
+    <string name="learn_more">APPRENDRE ENCORE PLUS</string>
+    <string name="alarm_high_glucose">Alarme de glucose élevé</string>
+    <string name="alarm_low_glucose">Alarme Basse Glucose</string>
+    <string name="alarm_signal_loss">Alarme de perte de signal</string>
+</resources>

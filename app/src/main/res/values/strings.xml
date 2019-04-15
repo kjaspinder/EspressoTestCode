@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EspressoTestSample</string>
+    <string name="invalid_email">Please give a valid Email address.</string>
+    <string name="empty_email">Email cannot be empty.</string>
+    <string name="empty_password">Password cannot be empty.</string>
+    <string name="pass_invalid">Password should have minimum 5 characters.</string>
+    <string name="alarm_config_instruction_unavailable">Alarms are only available when you start a FreeStyle Libre 2 Sensor with this device.</string>
+    <string name="password_mismatch">Passwords do not match.</string>
+    <string name="fill_all_fields">Please fill all the fields.</string>
+    <string name="learn_more">LEARN MORE</string>
+    <string name="alarm_high_glucose">High Glucose Alarm</string>
+    <string name="alarm_low_glucose">Low Glucose Alarm</string>
+    <string name="alarm_signal_loss">Signal Loss Alarm</string>
+</resources>
